@@ -1,0 +1,10 @@
+[package]
+name = "rusty-snake"
+version = "0.1.0"
+authors = ["Ignacio Tiraboschi <ignatirabo@gmail.com>"]
+
+[dependencies]
+ncurses = "5.86"
+rand = "^0.3"
+iron = "0.4.0"
+clap = "2.26.2"
